@@ -20,7 +20,7 @@
 .carousel-img2{
     background-image: url(./images/lady-justice-law-library-concept.jpg);
     height: 100vh;
-    background-size: cover ;
+    background-size: auto ;
     background-repeat:  no-repeat;
 }
 .carousel-img3{
