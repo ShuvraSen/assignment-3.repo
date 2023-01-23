@@ -1,0 +1,13 @@
+.banner-background{
+    background-image: url(./images/lady-justice-law-library-concept.jpg);
+    background-size: cover ;
+    background-repeat:  no-repeat;
+    height: 100vh;
+   max-height: 1200px;
+
+    
+   
+}
+.customized-color{
+    background-color:#B68C5A;
+}
