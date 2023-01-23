@@ -11,3 +11,21 @@
 .customized-color{
     background-color:#B68C5A;
 }
+.carousel-img1{
+    background-image: url(./images/judges-gavel-scale-justice-black-table.jpg);
+    height: 100vh;
+    background-size: cover ;
+    background-repeat:  no-repeat;
+}
+.carousel-img2{
+    background-image: url(./images/lady-justice-law-library-concept.jpg);
+    height: 100vh;
+    background-size: cover ;
+    background-repeat:  no-repeat;
+}
+.carousel-img3{
+    background-image: url("images/closeup-gavel-judgement-concept.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat:  no-repeat;
+}
